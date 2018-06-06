@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.rhz-inhouse.app1</string>
 				<key>bundle-version</key>
-				<string>3.2.0</string>
+				<string>3.3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>AVNight1</string>
+				<string>avnight</string>
 			</dict>
 		</dict>
 	</array>
