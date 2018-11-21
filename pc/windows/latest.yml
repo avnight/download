@@ -1,0 +1,8 @@
+version: 0.0.1
+files:
+  - url: AVnight-setup-latest.exe
+    sha512: IKZ4LxiAO3A9ZL3huPmIuHMCZgeozXgi//qRAY3Teasmg+uCdp+4jHUmvoENtAvLnL8wUjsNfN6QKuVtFXGuHA==
+    size: 42207992
+path: AVnight-setup-latest.exe
+sha512: IKZ4LxiAO3A9ZL3huPmIuHMCZgeozXgi//qRAY3Teasmg+uCdp+4jHUmvoENtAvLnL8wUjsNfN6QKuVtFXGuHA==
+releaseDate: '2018-11-21T09:41:25.223Z'
