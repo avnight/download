@@ -1,0 +1,8 @@
+version: 0.0.2
+files:
+  - url: night.exe
+    sha512: DJhFdbdwy6vyyWe6691cf75OHsq/mOG7eIIvpvljUPesjJR/1b73dfbBM+1HFZ+HbwAru38YAdPzLGpUu/cjVw==
+    size: 42213794
+path: night.exe
+sha512: DJhFdbdwy6vyyWe6691cf75OHsq/mOG7eIIvpvljUPesjJR/1b73dfbBM+1HFZ+HbwAru38YAdPzLGpUu/cjVw==
+releaseDate: '2018-11-22T10:59:26.466Z'
