@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.avn2-inhouse.app1</string>
+				<string>com.avn.app3-2</string>
 				<key>bundle-version</key>
-				<string>3.10.1</string>
+				<string>3.10.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
