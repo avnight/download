@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.avn-inhouse.app1</string>
+				<string>com.avn.app2-2</string>
 				<key>bundle-version</key>
 				<string>3.14.0</string>
 				<key>kind</key>
