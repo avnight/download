@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://i999.tv/appfile/jjkk/displayimage.jpg</string>
+					<string>https://raw.githubusercontent.com/avnight/download/master/jjkk/ios_appimage_displayimage_57x57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://i999.tv/appfile/jjkk/fullsizeimage.jpg</string>
+					<string>https://raw.githubusercontent.com/avnight/download/master/jjkk/ios_appimage_fullsizeimage_512x512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
