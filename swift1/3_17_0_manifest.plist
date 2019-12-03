@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/avnight/download/master/swift1/3_17_0_AVNight1.ipa</string>
+					<string>https://night-1258163503.file.myqcloud.com/ios1/3_17_0_AVNight1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,7 +25,7 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/avnight/download/master/image512.png</string>
 				</dict>
-			</array>
+</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
@@ -40,6 +40,6 @@
 				<string>AVNight1</string>
 			</dict>
 		</dict>
-	</array>
+</array>
 </dict>
 </plist>
