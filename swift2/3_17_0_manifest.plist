@@ -25,7 +25,7 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/avnight/download/master/image512.png</string>
 				</dict>
-			</array>
+</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
@@ -40,6 +40,6 @@
 				<string>AVNight2</string>
 			</dict>
 		</dict>
-	</array>
+</array>
 </dict>
 </plist>
