@@ -25,11 +25,11 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/avnight/download/master/image512.png</string>
 				</dict>
-</array>
+			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.m.avn.app4</string>
+				<string>com.avn.app4</string>
 				<key>bundle-version</key>
 				<string>3.19.0</string>
 				<key>kind</key>
@@ -40,6 +40,6 @@
 				<string>AVNight4</string>
 			</dict>
 		</dict>
-</array>
+	</array>
 </dict>
 </plist>
